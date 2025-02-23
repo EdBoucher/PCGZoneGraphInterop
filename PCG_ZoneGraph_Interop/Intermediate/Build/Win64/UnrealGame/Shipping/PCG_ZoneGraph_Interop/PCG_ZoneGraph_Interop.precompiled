@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PCG_ZoneGraph_Interop\\Module.PCG_ZoneGraph_Interop.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PCG_ZoneGraph_Interop\\PCG_ZoneGraph_Interop.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PCG_ZoneGraph_Interop\\PGLCreateZoneGraph.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PCG_ZoneGraph_Interop\\PGLZoneGraphSettingsNode.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\PCG_ZoneGraph_Interop\\ZoneGraphToPoints.cpp.obj"
+	]
+}

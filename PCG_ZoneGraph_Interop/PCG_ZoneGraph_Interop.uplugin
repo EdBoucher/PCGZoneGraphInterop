@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PCGZoneGraphInterop",
+	"Description": "PCG nodes for interacting with and authoring ZoneGraphs",
+	"Category": "Other",
+	"CreatedBy": "Michael Chapman",
+	"CreatedByURL": "",
+	"DocsURL": "https://procgen-labs.gitbook.io/procgen-labs-docs",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PCG_ZoneGraph_Interop",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		},
+		{
+			"Name": "PCG_ZoneGraph_Interop",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "ZoneGraph",
+			"Enabled": true
+		}
+	]
+}
