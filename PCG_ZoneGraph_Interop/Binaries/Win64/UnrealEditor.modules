@@ -2,6 +2,7 @@
 	"BuildId": "37670630",
 	"Modules": 
 	{
-		"PCG_ZoneGraph_Interop": "UnrealEditor-PCG_ZoneGraph_Interop.dll"
+		"PCG_ZoneGraph_Interop": "UnrealEditor-PCG_ZoneGraph_Interop.dll",
+		"PCG_ZoneGraph_InteropEditor": "UnrealEditor-PCG_ZoneGraph_InteropEditor.dll"
 	}
 }

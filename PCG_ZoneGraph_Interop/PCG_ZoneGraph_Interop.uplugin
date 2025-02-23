@@ -20,7 +20,7 @@
 			"LoadingPhase": "PreLoadingScreen"
 		},
 		{
-			"Name": "PCG_ZoneGraph_Interop",
+			"Name": "PCG_ZoneGraph_InteropEditor",
 			"Type": "Editor",
 			"LoadingPhase": "PostEngineInit"
 		}
